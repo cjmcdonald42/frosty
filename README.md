@@ -5,8 +5,7 @@
     maturity:   Production
 
 # frosty
-
-The poem "Stopping by Woods on a Snowy Evening" by Robert Frost
+## The poem "Stopping by Woods on a Snowy Evening" by Robert Frost
 This html file tests a modified installation of Apache2 on a virtualized machine.
 
 ### This work © 2025 by Charles J McDonald is licensed under CC BY-NC-SA 4.0
